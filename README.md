@@ -1,4 +1,4 @@
-# My Shader Showcase Project Year 2023
+# My Shader Showcase Project Year 2023 Public Version
 *Unity BIRP - Version 2021.3.16f1*  
 THIS PROJECT WILL PROBABLY ONLY LAST FOR THE CURRENT YEAR ITS BEING WORKED ON.  
 I plan on having a showcase project every year so this will probably be for the year of 2023 & a new project will come in 2024.  
@@ -8,6 +8,8 @@ This is my project where I will hold many shaders that I have created & show the
 This project will hold 2 showcase projects, I explain them below:  
 - First part will showcase the Valorant dance effect from the radiant entertainment system with a bunch of my shaders I created & learned throughout the year for fun. This was mainly to re-learn particle effects & learn new shader techniques.  
 - Second part will showcase some secret "quake" stuff let's just say that...
+
+(I had to reupload? this repo due to some issues, so here we are... & thanks to the 2 stargazers :>)
 
 # Videos out of this Project
   
